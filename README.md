@@ -17,6 +17,7 @@
 [<img align="left" alt="Chensienyong | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Chensienyong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Chensienyong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Chensienyong | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
@@ -46,6 +47,14 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
+
+<details>
+  <summary>💫 Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>💫 Github Stats</summary>
