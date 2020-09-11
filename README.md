@@ -1,11 +1,11 @@
-### Hellow visitors, I'm Jeffry Tandiono - aka Chensienyong 👋
+### Hellow visitors, I'm Jeffry Tandiono - aka Chensienyong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a self learner software engineer!
 
 - 💼 Currently working as a Product Engineer at [Gojek][gojek]
 - 🌱 Active pursuing Personal Growth and Productivity
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goal: Contribute more to Open Source projects
+- 📫 How to reach me: [@jeffrytandiono][telegram]
 - ⚡ Fun fact: I love Psychology and Philosophy
 
 ### Spotify Playing 🎧
@@ -44,6 +44,14 @@
 
 ➡️ [more videos...][youtube]
 
+<details>
+  <summary>💫 Github Stats</summary>
+
+  <img align="left" alt="Chensienyong's Github Stats" src="https://github-readme-stats.chensienyong.vercel.app/api?username=Chensienyong&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+
+</details>
+
+[telegram]: https://t.me/jeffrytandiono
 [gojek]: https://www.gojek.com/
 [spotify]: https://open.spotify.com/user/undzbkuvaf8cluv0isrw3tehd
 [youtube]: https://www.youtube.com/channel/UC-CjxVLFbbgOot361O52YMg
