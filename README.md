@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chensienyong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Chensienyong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chensienyong | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Chensienyong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Chensienyong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -33,6 +34,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
 
 [gojek]: https://www.gojek.com/
 [spotify]: https://open.spotify.com/user/undzbkuvaf8cluv0isrw3tehd
