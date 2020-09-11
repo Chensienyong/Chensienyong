@@ -40,6 +40,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 152. Maximum Product Subarray](https://www.youtube.com/watch?v=X0Z8vTlpBLM)
+- [Leetcode 299. Bulls and Cows](https://www.youtube.com/watch?v=ngBA6Y8C4T8)
+- [Leetcode 165. Compare Version Numbers](https://www.youtube.com/watch?v=qRK7PH5LFSg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
