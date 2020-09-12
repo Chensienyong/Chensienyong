@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love Psychology and Philosophy
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Chensienyong Spotify Playing" width="350" />][spotify]
+[<img src="https://spotify-readme.chensienyong.vercel.app/api/spotify-playing" alt="Chensienyong Spotify Playing" width="350" />][spotify]
 
 ### Connect with me:
 
