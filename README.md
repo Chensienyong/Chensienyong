@@ -1,6 +1,6 @@
 ## Hellow visitors, I'm Jeffry Tandiono! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <img align='right' src="https://github.com/Chensienyong/Chensienyong/blob/master/thumbs-up.gif?raw=true" width="230">
-<p><em>Software Engineer at [Gojek][gojek]<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Engineer at <a href="https://www.gojek.com">Gojek</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [<img align="left" alt="Chensienyong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,10 +13,10 @@
 <br/>
 <br/>
 
-## I'm a self learner software engineer!
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a self learner software engineer!
 
 - 🌱 Active pursuing Personal Growth and Productivity
-- 👯 I’m looking to collaborate with other content creators
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> I’m looking to collaborate with other content creators
 - 📫 How to reach me: [@jeffrytandiono][telegram]
 - ⚡ Fun fact: I love Psychology and Philosophy
 
@@ -66,7 +66,6 @@
 </details>
 
 [telegram]: https://t.me/jeffrytandiono
-[gojek]: https://www.gojek.com/
 [spotify]: https://open.spotify.com/user/undzbkuvaf8cluv0isrw3tehd
 [youtube]: https://www.youtube.com/channel/UC-CjxVLFbbgOot361O52YMg
 [linkedin]: https://www.linkedin.com/in/jetee
