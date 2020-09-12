@@ -1,8 +1,20 @@
-### Hellow visitors, I'm Jeffry Tandiono - aka Chensienyong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hellow visitors, I'm Jeffry Tandiono! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<img align='right' src="https://github.com/Chensienyong/Chensienyong/blob/master/thumbs-up.gif?raw=true" width="230">
+<p><em>Software Engineer at [Gojek][gojek]<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+[<img align="left" alt="Chensienyong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chensienyong | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Chensienyong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Chensienyong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Chensienyong | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Chensienyong | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+
+<br/>
+<br/>
 
 ## I'm a self learner software engineer!
 
-- 💼 Currently working as a Product Engineer at [Gojek][gojek]
 - 🌱 Active pursuing Personal Growth and Productivity
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: [@jeffrytandiono][telegram]
@@ -10,17 +22,6 @@
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme.chensienyong.vercel.app/api/spotify-playing" alt="Chensienyong Spotify Playing" width="350" />][spotify]
-
-### Connect with me:
-
-[<img align="left" alt="Chensienyong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chensienyong | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Chensienyong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Chensienyong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Chensienyong | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
-<br />
 
 ---
 
@@ -71,3 +72,4 @@
 [linkedin]: https://www.linkedin.com/in/jetee
 [instagram]: https://www.instagram.com/chensienyong
 [medium]: https://medium.com/@chensienyong
+[leetcode]: https://leetcode.com/chensienyong
