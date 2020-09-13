@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 57. Insert Interval](https://www.youtube.com/watch?v=iBamlePnVc0)
 - [Leetcode 216. Combination Sum III](https://www.youtube.com/watch?v=gUJpW2OrXSQ)
 - [Leetcode 152. Maximum Product Subarray](https://www.youtube.com/watch?v=X0Z8vTlpBLM)
-- [Leetcode 299. Bulls and Cows](https://www.youtube.com/watch?v=ngBA6Y8C4T8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
