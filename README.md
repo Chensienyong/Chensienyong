@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 198. House Robber](https://www.youtube.com/watch?v=zisxrhGqU9Q)
 - [Leetcode 57. Insert Interval](https://www.youtube.com/watch?v=iBamlePnVc0)
 - [Leetcode 216. Combination Sum III](https://www.youtube.com/watch?v=gUJpW2OrXSQ)
-- [Leetcode 152. Maximum Product Subarray](https://www.youtube.com/watch?v=X0Z8vTlpBLM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
