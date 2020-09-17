@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 421. Maximum XOR of Two Numbers in an Array](https://www.youtube.com/watch?v=yiJoRqxE2w0)
 - [Leetcode 1041. Robot Bounded In Circle](https://www.youtube.com/watch?v=gx6BLkjx9Wo)
 - [Leetcode 58. Length of Last Word](https://www.youtube.com/watch?v=pL3aqLZE2Q4)
-- [Leetcode 198. House Robber](https://www.youtube.com/watch?v=zisxrhGqU9Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
