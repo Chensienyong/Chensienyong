@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 1041. Robot Bounded In Circle](https://www.youtube.com/watch?v=gx6BLkjx9Wo)
 - [Leetcode 58. Length of Last Word](https://www.youtube.com/watch?v=pL3aqLZE2Q4)
 - [Leetcode 198. House Robber](https://www.youtube.com/watch?v=zisxrhGqU9Q)
-- [Leetcode 57. Insert Interval](https://www.youtube.com/watch?v=iBamlePnVc0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
