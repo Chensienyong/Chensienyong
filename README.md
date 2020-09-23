@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 980. Unique Paths III](https://www.youtube.com/watch?v=t8GbWN0mvNc)
 - [Leetcode 1291. Sequential Digits](https://www.youtube.com/watch?v=D-c0YvICc0c)
 - [Leetcode 121. Best Time to Buy and Sell Stock](https://www.youtube.com/watch?v=w_na90YwMhI)
-- [Leetcode 421. Maximum XOR of Two Numbers in an Array](https://www.youtube.com/watch?v=yiJoRqxE2w0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
