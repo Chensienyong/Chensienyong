@@ -53,7 +53,7 @@
   <summary>💫 Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5433](https://github.com//timburgan/timburgan/issues/5433) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. ❗️ Opened issue [#5433](https://github.com/timburgan/timburgan/issues/5433) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
