@@ -28,11 +28,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Laws That Software Engineer Must Know](https://levelup.gitconnected.com/7-laws-that-software-engineer-must-know-40775650f824?source=rss-c10f01989d8d------2)
 - [Engineer Note #5: Clojure’s Concurrency and Parallelism](https://medium.com/@chensienyong/engineer-note-5-clojures-concurrency-and-parallelism-9c7ac95567df?source=rss-c10f01989d8d------2)
 - [Engineer Note #4: Clojure’s Reader, Evaluator, Macro Expander](https://medium.com/@chensienyong/engineer-note-4-clojures-reader-evaluator-macro-expander-ac1735f619e?source=rss-c10f01989d8d------2)
 - [Engineer Note #3: Clojure’s Persistent Vectors](https://medium.com/@chensienyong/engineer-note-3-clojures-persistent-vectors-6631bd32a859?source=rss-c10f01989d8d------2)
 - [The summary of my 100 days of meditation](https://medium.com/@chensienyong/the-summary-of-my-100-days-of-meditation-e02356b30ebd?source=rss-c10f01989d8d------2)
-- [Engineer Note #2: Understanding Clojure Sequence Abstraction](https://medium.com/@chensienyong/engineer-note-2-understanding-clojure-sequence-abstraction-4961ea0f94f1?source=rss-c10f01989d8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
