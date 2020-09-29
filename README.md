@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Leetcode 179. Largest Number](https://www.youtube.com/watch?v=tkBD9FYX4CY)
-- [Leetcode 134. Gas Station](https://www.youtube.com/watch?v=xjr6Md95tSg)
-- [Leetcode 389. Find the Difference](https://www.youtube.com/watch?v=5WAgw5j3zw8)
+- [Leetcode 139. Word Break](https://www.youtube.com/watch?v=gzFv2F2FnBU)
+- [Leetcode 713. Subarray Product Less Than K](https://www.youtube.com/watch?v=jVK2sIz4Z9Q)
+- [Leetcode 495. Teemo Attacking](https://www.youtube.com/watch?v=L2yJgKzs_Kc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
