@@ -42,9 +42,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leetcode 933. Number of Recent Calls](https://www.youtube.com/watch?v=JB63-yqajs0)
+- [Leetcode 41. First Missing Positive](https://www.youtube.com/watch?v=I7DJAXZJp4U)
 - [Leetcode 139. Word Break](https://www.youtube.com/watch?v=gzFv2F2FnBU)
-- [Leetcode 713. Subarray Product Less Than K](https://www.youtube.com/watch?v=jVK2sIz4Z9Q)
-- [Leetcode 495. Teemo Attacking](https://www.youtube.com/watch?v=L2yJgKzs_Kc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
