@@ -28,11 +28,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plug & Play on Gojek’s New Auto Approval KYC](https://blog.gojekengineering.com/plug-play-on-gojeks-new-auto-approval-kyc-164f130af5e7?source=rss-c10f01989d8d------2)
 - [The Misconception of “or”, “||”, “and”, and “&&” in Ruby](https://medium.com/@jeffrytandiono/the-misconception-of-or-and-and-in-ruby-be4c083e9735?source=rss-c10f01989d8d------2)
 - [Amortized Analysis](https://medium.com/@jeffrytandiono/amortized-analysis-ba6ad7724780?source=rss-c10f01989d8d------2)
 - [7 Laws That Software Engineer Must Know](https://levelup.gitconnected.com/7-laws-that-software-engineer-must-know-40775650f824?source=rss-c10f01989d8d------2)
 - [Engineer Note #5: Clojure’s Concurrency and Parallelism](https://medium.com/@jeffrytandiono/engineer-note-5-clojures-concurrency-and-parallelism-9c7ac95567df?source=rss-c10f01989d8d------2)
-- [Engineer Note #4: Clojure’s Reader, Evaluator, Macro Expander](https://medium.com/@jeffrytandiono/engineer-note-4-clojures-reader-evaluator-macro-expander-ac1735f619e?source=rss-c10f01989d8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
